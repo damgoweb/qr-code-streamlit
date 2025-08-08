@@ -3,3 +3,4 @@ __pycache__/
 venv/
 env_qr_code/
 .env
+setup_qr_app.sh
